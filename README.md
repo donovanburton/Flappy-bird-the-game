@@ -11,7 +11,7 @@ This project is a simple demonstration of an application in fewer than 100 lines
 KSU scrape
 This project demonstrates how Python can be used to grab data from a web page and process it into orderly results that can be used for further analysis and actions. It requires several add-on libraries. You will especially need to install the beautiful soup library and the lxml parser library in order to use this code. The command line command for installing is '''pip install bs4''' This may work for you. Otherwise, you may need to try '''python -m pip install bs4''' On a Mac, you will need to guide the install to your Python 3 installation, since Macs also already have Python 2 associated with the command '''python''' by default. So, you would run '''pip3 install bs4'''. Similarly, you can install other modules by putting their official name instead of '''bs4''' in the preceding commands. For more info, watch https://www.youtube.com/watch?v=jnpC_Ib_lbc.
 
-calcGUI
+CalcGUI
 This project shows you a Python application working in a graphical user interface window with buttons and bindings to your keyboard keys. 
 
 DB in Python
